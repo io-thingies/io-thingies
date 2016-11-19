@@ -1,1 +1,0 @@
-"use strict";Object.defineProperty(exports,"__esModule",{value:true});var notFound=React.createClass({displayName:"notFound",render:function render(){return React.createElement("div",{className:"behavior-panel-content error"},"This panel could not be found !")}});exports.default=notFound;
