@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});var isSerializablePanel=React.createClass({displayName:"isSerializablePanel",render:function render(){var json=this.props.data.entity.execute("getJSON",4);return React.createElement("div",{className:"behavior-panel-content"},React.createElement("pre",null,json))}});exports.default=isSerializablePanel;

@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});var i18nPanel=React.createClass({displayName:"i18nPanel",render:function render(){return React.createElement("div",{className:"behavior-panel-content"},"This panel presents a list with all ui-messages for this entity ( including warnings and errors ) and a language selector.")}});exports.default=i18nPanel;

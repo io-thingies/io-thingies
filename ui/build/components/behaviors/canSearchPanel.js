@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});var canSearchPanel=React.createClass({displayName:"canSearchPanel",render:function render(){return React.createElement("div",{className:"behavior-panel-content error"},"canSearchPanel")}});exports.default=canSearchPanel;
