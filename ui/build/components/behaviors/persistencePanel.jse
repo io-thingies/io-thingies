@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});var hasPresentersPanel=React.createClass({displayName:"hasPresentersPanel",render:function render(){return React.createElement("div",{className:"behavior-panel-content error"},"hasPresentersPanel")}});exports.default=hasPresentersPanel;

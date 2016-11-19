@@ -1,0 +1,1 @@
+"use strict";Object.defineProperty(exports,"__esModule",{value:true});var LoggingPanel=React.createClass({displayName:"LoggingPanel",render:function render(){return React.createElement("div",{className:"behavior-panel-content"},"LoggingPanel presents a history of all activities for this entity.")}});exports.default=LoggingPanel;
